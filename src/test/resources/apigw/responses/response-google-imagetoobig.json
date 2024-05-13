@@ -1,0 +1,10 @@
+{
+  "statusCode": 400,
+  "headers":
+    {
+      "Content-Type": "application/json"
+    },
+  "multiValueHeaders": null,
+  "isBase64Encoded": false,
+  "body": "{\"error\":\"size must be between 50 and 1000\"}"
+}

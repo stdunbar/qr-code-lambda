@@ -1,0 +1,57 @@
+{
+  "body": "{\"url\":\"https%3A%2F%2Fwww.example.com%2Fpath1%2Fpath2%2Fpath2%3Ftoken%3Dhttps%253A%252F%252Fwww.example.com%252Fpath1%252Fpath2%252Fpath2%253Fs%253DeyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJEeV9Ra2NfbXdoS3RBRkFXSlU5dERMeGtsWG9hQlhGM1hxeldwTjFuUXBVIn0.eyJleHAiOjE3MTU2Mjk0MDcsImlhdCI6MTcxNTYyNzYwNywianRpIjoiNjI4MWMzMWUtMTgxZC00ZTM1LWEzYTItNzU4OTcwNjhlY2U5IiwiaXNzIjoiaHR0cHM6Ly9hdXRoLmhvdGpvZS5jb20vcmVhbG1zL21ocCIsInN1YiI6Ijk1OGYwOTk3LTAxZDYtNDk0Mi1iZWE4LTBiODRhNmFmZmViNyIsInR5cCI6IkJlYXJlciIsImF6cCI6ImFkbWluLWNsaSIsInNlc3Npb25fc3RhdGUiOiJhYWNlN2YxMS00NjUzLTQzZWQtODRjOS1iOTZiNDkyZjMzYjUiLCJhY3IiOiIxIiwic2NvcGUiOiJwcm9maWxlIHJvbGVzIGVtYWlsIiwic2lkIjoiYWFjZTdmMTEtNDY1My00M2VkLTg0YzktYjk2YjQ5MmYzM2I1IiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5hbWUiOiJNSFAgQWRtaW4iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJtaHBhZG1pbiIsImdpdmVuX25hbWUiOiJNSFAiLCJmYW1pbHlfbmFtZSI6IkFkbWluIiwiZW1haWwiOiJzY290dCttaHBhZG1pbkBteWhvbWVwYXRod2F5LmNvbSJ9.uIRf-n8_LxmnSxCPxNn-56k0fuXFURj4HXmfCxttJnURyx8_hQSXPWdyikuYo4GDgP-9UG6p2r_o1In2ozQ4CV5CLzviybBNfF9GDoxMGyi_sfrJ0lTNsi_TcO2YFPpSdyhSCD2ReVgJtJlQoU9clO8o8HNK5-PTZI0pbLIRb7txpUGD0BfAf9BDK2v_yvfyPvFZkeUIitSiKx1vCIv-a9P2tuRfwdK4Z03VbT_LOn59QnENGwPZReEqzV8elxs6pii4YMcKtR7aLFXiqSlViZrtHZY4Ma52MUnM31huqxr61bC_E4TselcNlU1pLkuVgDrlr6vqbBHB2I-wW8yv9Q%2522%252C%2522expires_in%2522%253A1800%252C%2522refresh_expires_in%2522%253A1800%252C%2522refresh_token%2522%253A%2522eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1OTI4MzNjNC04ODcwLTQzYmQtYTIwNS0wNmIxZDZlYjAyMDIifQ.eyJleHAiOjE3MTU2Mjk0MDcsImlhdCI6MTcxNTYyNzYwNywianRpIjoiNjgzNjgzMTMtMTQ5ZC00Njc2LTllYWEtMTg2YjY4OTE1OTcxIiwiaXNzIjoiaHR0cHM6Ly9hdXRoLmhvdGpvZS5jb20vcmVhbG1zL21ocCIsImF1ZCI6Imh0dHBzOi8vYXV0aC5ob3Rqb2UuY29tL3JlYWxtcy9taHAiLCJzdWIiOiI5NThmMDk5Ny0wMWQ2LTQ5NDItYmVhOC0wYjg0YTZhZmZlYjciLCJ0eXAiOiJSZWZyZXNoIiwiYXpwIjoiYWRtaW4tY2xpIiwic2Vzc2lvbl9zdGF0ZSI6ImFhY2U3ZjExLTQ2NTMtNDNlZC04NGM5LWI5NmI0OTJmMzNiNSIsInNjb3BlIjoicHJvZmlsZSByb2xlcyBlbWFpbCIsInNpZCI6ImFhY2U3ZjExLTQ2NTMtNDNlZC04NGM5LWI5NmI0OTJmMzNiNSJ9.cN4AtgQi4iWBew6YIX2YGo2uzg5UNBrQcEPsBrQUk4EgBGG79WGtG-b-YGzAZKUUte3QTnzl7mtAvGHEgaly5w\", \"size\": 300}",
+  "resource": "/{proxy+}",
+  "path": "/path/to/resource",
+  "httpMethod": "POST",
+  "queryStringParameters": {
+    "foo": "bar"
+  },
+  "pathParameters": {
+    "proxy": "path/to/resource"
+  },
+  "stageVariables": {
+    "baz": "qux"
+  },
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Encoding": "gzip, deflate, sdch",
+    "Accept-Language": "en-US,en;q=0.8",
+    "Cache-Control": "max-age=0",
+    "CloudFront-Forwarded-Proto": "https",
+    "CloudFront-Is-Desktop-Viewer": "true",
+    "CloudFront-Is-Mobile-Viewer": "false",
+    "CloudFront-Is-SmartTV-Viewer": "false",
+    "CloudFront-Is-Tablet-Viewer": "false",
+    "CloudFront-Viewer-Country": "US",
+    "Host": "1234567890.execute-api.{dns_suffix}",
+    "Upgrade-Insecure-Requests": "1",
+    "User-Agent": "Custom User Agent String",
+    "Via": "1.1 08f323deadbeefa7af34d5feb414ce27.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "cDehVQoZnx43VYQb9j2-nvCh-9z396Uhbp027Y2JvkCPNLmGJHqlaA==",
+    "X-Forwarded-For": "127.0.0.1, 127.0.0.2",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "requestContext": {
+    "accountId": "123456789012",
+    "resourceId": "123456",
+    "stage": "prod",
+    "requestId": "c6af9ac6-7b61-11e6-9a41-93e8deadbeef",
+    "identity": {
+      "cognitoIdentityPoolId": null,
+      "accountId": null,
+      "cognitoIdentityId": null,
+      "caller": null,
+      "apiKey": null,
+      "sourceIp": "127.0.0.1",
+      "cognitoAuthenticationType": null,
+      "cognitoAuthenticationProvider": null,
+      "userArn": null,
+      "userAgent": "Custom User Agent String",
+      "user": null
+    },
+    "resourcePath": "/{proxy+}",
+    "httpMethod": "POST",
+    "apiId": "1234567890"
+  }
+}

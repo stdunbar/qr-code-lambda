@@ -1,0 +1,10 @@
+{
+  "statusCode": 200,
+  "headers":
+    {
+      "Content-Type": "image/png"
+    },
+  "multiValueHeaders": null,
+  "isBase64Encoded": true,
+  "body": "iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABJklEQVR4Xu2VPY7FMAiE7crH4KaJuamPQRV2BlvvT2+71Zoioygi8zWTYEjx31Q+jYduchPq70kvkKiJuqvxoaYhMNzkmobJcpIQK9WkF0DxKBKS3pg6IVEf7HM24tFkKyfvspwcpHMwRG1efKhpyFLY9KZyEKQ+p208jC/d3k8glGo0ehun48pCEBPBD7YZMOw05MJS4fhyMR9z/+UhsVQuZies8zzmIM5yHA3Bl61pyNXGwUHhrODrKoo0JMpRMB+c4PGSej/xOIaclYaCqokI1WM4lC8hz9S7SWfQ+MfC4/VIvZ8wIyeYPa8zeB5isV24/+INcCSTEXQ7xhfF84smIbrWjOjbdtlNnN3W9UMDEU9D2OEIW+mAf8zPTvJdN7kJ9V/kBwCVzujjEdHBAAAAAElFTkSuQmCC"
+}
