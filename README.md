@@ -49,7 +49,7 @@ should not be put out for the world without some kind of protection.
 
 QR Code Size
 ----
-Note that, depending on the length of your URL, the returned QR code and be fairly simple or extremely dense.  For
+Note that, depending on the length of your URL, the returned QR code can be fairly simple or extremely dense.  For
 example, a simple request that has the URL of `https://www.google.com/` looks like this:
 
 ![Google QR](docImages/google.png "Google QR")
@@ -61,8 +61,3 @@ However, a URL that is large (this one is a bit over 2000 characters) can result
 While the first QR code is easily read at 200 x 200 px, the second one may not be, depending on the screen and
 resolution that it is displayed with.  If you have very long URL's, consider a link shortening service
 to create the QR code so that it is easily readable across devices.
-
-
-
-
-
